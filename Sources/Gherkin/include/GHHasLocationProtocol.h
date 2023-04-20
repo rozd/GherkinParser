@@ -1,0 +1,1 @@
+../GHHasLocationProtocol.h
